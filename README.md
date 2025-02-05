@@ -8,15 +8,14 @@ Questa applicazione è un progetto Laravel che permette agli utenti di autentica
 
 Aprire il terminale e clonare il repository:
 
-````bash
+```bash
 git clone https://github.com/bnistor4/ProgettoTest.git
 cd ProgettoTest
 
 ### 2. Installare le dipendenze
-```bash
 composer install
 npm install 
-````
+```
 
 ### 3. Creare il file .env
 
