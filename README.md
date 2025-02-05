@@ -21,7 +21,7 @@ npm install
 ### 3. Creare il file .env
 
 ```bash
-cp .env.example .env
+Copia il file .env.example e rinominalo in .env
 ```
 
 ### 4. Generare la chiave dell'applicazione
